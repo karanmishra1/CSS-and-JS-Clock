@@ -1,2 +1,8 @@
 # CSS-and-JS-Clock
-Clock made with CSS and JS
+
+This is a clock made with CSS and JS.
+
+
+# Acknowledgement
+
+- Wes Bos
